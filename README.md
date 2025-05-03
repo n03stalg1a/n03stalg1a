@@ -16,20 +16,20 @@ I specialize in a variety of technologies and tools that help me bring my projec
 
 Here are some of the projects I've worked on:
 
-### 1. **Project A**
-   - A short description of what this project is about.
-   - Technologies used: Python, Django, PostgreSQL
-   - [Link to Project](https://github.com/n03stalg1a/project-a)
+### 1. **n03stalg1c-f1nd3r**
+   - A proxy finding tool.
+   - Technologies used: Python
+   - [Link to Project](https://github.com/n03stalg1a/n03stalg1c-f1nd3r)
 
-### 2. **Project B**
-   - A description of this interesting project.
-   - Technologies used: JavaScript, React, Node.js
-   - [Link to Project](https://github.com/n03stalg1a/project-b)
+### 2. **Device-Security-Audit **
+   - A device auditing program.
+   - Technologies used: Python
+   - [Link to Project](https://github.com/n03stalg1a/Device-Security-Audit)
 
-### 3. **Project C**
+### 3. **Advanced-Password-Generator**
    - Another cool project I worked on.
-   - Technologies used: C++, OpenGL, Linux
-   - [Link to Project](https://github.com/n03stalg1a/project-c)
+   - Technologies used: Python
+   - [Link to Project](https://github.com/n03stalg1a/Advanced-Password-Generator)
 
 ## 📊 GitHub Stats
 
@@ -38,7 +38,6 @@ Here are some of the projects I've worked on:
 ## 🏆 Achievements
 
 - Contributed to **10+ open-source projects**
-- 100+ pull requests merged across various repositories
 - Speaker at local developer meetups
 
 ## 🔑 Fun Facts About Me
@@ -58,9 +57,6 @@ Here are some of the projects I've worked on:
 ## 📍 You Can Find Me Here:
 
 - GitHub: [https://github.com/n03stalg1a](https://github.com/n03stalg1a)
-- LinkedIn: [https://linkedin.com/in/n03stalg1a](https://linkedin.com/in/n03stalg1a)
-- Twitter: [@n03stalg1a](https://twitter.com/n03stalg1a)
-- Personal Blog: [https://n03stalg1a.dev](https://n03stalg1a.dev)
 
 ---
 
