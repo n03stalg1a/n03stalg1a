@@ -1,0 +1,143 @@
+
+# Welcome to n03stalg1a's GitHub Profile!
+
+Hi there! 👋 I'm **n03stalg1a**, a passionate developer who loves coding and sharing knowledge. Welcome to my GitHub profile! This is where I showcase my projects, contributions, and some fun facts about myself.
+
+## 🔧 Technologies & Tools I Work With
+
+I specialize in a variety of technologies and tools that help me bring my projects to life. Here's a list of the ones I use most often:
+
+- **Languages:** Python, JavaScript, C++, Java, HTML, CSS, SQL
+- **Frameworks & Libraries:** React, Django, Flask, Node.js, Bootstrap, TensorFlow
+- **Tools & Platforms:** Git, GitHub, Docker, AWS, Heroku, VSCode
+- **Databases:** MySQL, PostgreSQL, MongoDB
+
+## 🚀 My Projects
+
+Here are some of the projects I've worked on:
+
+### 1. **Project A**
+   - A short description of what this project is about.
+   - Technologies used: Python, Django, PostgreSQL
+   - [Link to Project](https://github.com/n03stalg1a/project-a)
+
+### 2. **Project B**
+   - A description of this interesting project.
+   - Technologies used: JavaScript, React, Node.js
+   - [Link to Project](https://github.com/n03stalg1a/project-b)
+
+### 3. **Project C**
+   - Another cool project I worked on.
+   - Technologies used: C++, OpenGL, Linux
+   - [Link to Project](https://github.com/n03stalg1a/project-c)
+
+## 📊 GitHub Stats
+
+![n03stalg1a's GitHub Stats](https://github-readme-stats.vercel.app/api?username=n03stalg1a&show_icons=true&hide_title=true&count_private=true)
+
+## 🏆 Achievements
+
+- Contributed to **10+ open-source projects**
+- 100+ pull requests merged across various repositories
+- Speaker at local developer meetups
+
+## 🔑 Fun Facts About Me
+
+- I love learning new programming languages and tools (currently diving into Go and Rust).
+- I enjoy solving complex problems and breaking them down into smaller, manageable pieces.
+- In my free time, I like to participate in coding challenges and hackathons.
+- I'm a huge fan of AI and Machine Learning, and I love experimenting with new algorithms.
+- When I'm not coding, you can find me reading sci-fi novels or playing video games 🎮.
+
+## 📈 My Coding Activity
+
+- 📅 **Currently working on**: Machine Learning project using TensorFlow.
+- 🌱 **Learning**: Rust, Go, and advanced algorithms.
+- ⚡ **Fun fact**: I once built a personal AI assistant that could write my emails for me (almost) perfectly!
+
+## 📍 You Can Find Me Here:
+
+- GitHub: [https://github.com/n03stalg1a](https://github.com/n03stalg1a)
+- LinkedIn: [https://linkedin.com/in/n03stalg1a](https://linkedin.com/in/n03stalg1a)
+- Twitter: [@n03stalg1a](https://twitter.com/n03stalg1a)
+- Personal Blog: [https://n03stalg1a.dev](https://n03stalg1a.dev)
+
+---
+
+# 🚨 **Stay Connected** 🚨
+
+I'm always open to collaborating on exciting projects, so don't hesitate to reach out if you're interested in working together or if you just want to chat about technology, AI, or video games.
+
+---
+
+## 🌟 Fun Section: **My Code Is Like...**
+
+Let's make it fun! Here's how I like to compare my coding style:
+
+- **Clean & Efficient**: Like a freshly brewed cup of coffee ☕️.
+- **Fast & Furious**: Like an F1 car zooming down the track 🚗💨.
+- **Predictable**: Like a well-written novel 📖.
+- **Occasionally Messy**: Like a DIY project that somehow turns into a bigger mess 🛠️.
+
+---
+
+# 🔥 **Let's Get Nerdy!** 🔥
+
+Do you want to talk about coding, algorithms, or maybe why the CSS flexbox model is so confusing? I'm here for it! Send me a message, and let's discuss the wonders of the programming world! ✨
+
+---
+
+# 👨‍💻 **Coding Contribution Calendar**
+
+Here's a breakdown of my contributions across GitHub. As you can see, I am very active in contributing to projects!
+
+```txt
+   January | ████████████████████
+   February | ███████████████████
+   March | ███████████████
+   April | ████████████████████
+```
+
+---
+
+## 🏅 **My GitHub Activity**
+
+I'm pretty active on GitHub! Here's a snapshot of my recent activity:
+
+- Contributed to **20+ repositories** in the past month
+- Merged **10 pull requests** last week
+- Reviewed **50+ issues** for open-source projects
+- Created **3 repositories** in the past two months
+
+---
+
+## 🎨 Fun Drawing Section
+
+```text
+ _______
+|       |
+|  n03  |
+|  st4  |
+|  lg1  |
+|_______|
+```
+
+Yes, even my code can draw stuff! 😎
+
+---
+
+## 🎉 **Personal Achievements**
+
+- **Hackathon Winner**: Won 1st place in a national hackathon (2024).
+- **Most Commits**: Most contributions in my team for 2023.
+- **Greatest Debugger**: Got the 'Best Debugger' title for the last 3 months.
+
+---
+
+# 🌍 **Let's Build the Future Together**
+
+Whether you're working on AI, Machine Learning, open-source, or something completely different, I love collaborating with others. Don't hesitate to reach out! Let's build something amazing together. 🚀
+
+---
+
+### Thanks for visiting my GitHub profile! I hope you enjoy browsing my work as much as I enjoy building it. Stay awesome! 💻
