@@ -17,7 +17,7 @@ I specialize in a variety of technologies and tools that help me bring my projec
 Here are some of the projects I've worked on:
 
 ### 1. **n03stalg1c-f1nd3r**
-   - A proxy finding tool.
+   - n03stalg1c f1nd3r is a powerful and easy-to-use command-line tool designed to help you find, validate, and collect proxy servers from a variety of public sources. Whether you're looking for HTTP, HTTPS, SOCKS4, or SOCKS5 proxies, this tool offers a seamless and efficient solution. .
    - Technologies used: Python
    - [Link to Project](https://github.com/n03stalg1a/n03stalg1c-f1nd3r)
 
