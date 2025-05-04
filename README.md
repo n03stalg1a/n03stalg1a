@@ -39,8 +39,6 @@ Here are some of the projects I've worked on:
 
 - Contributed to **10+ open-source projects**
 - Speaker at local developer meetups
-- **TryHackMe Badge**:
-  <img src="https://tryhackme-badges.s3.amazonaws.com/n03stalg1a.png" alt="Your Image Badge" />
 
 ## 🔑 Fun Facts About Me
 
