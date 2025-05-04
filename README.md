@@ -21,15 +21,15 @@ Here are some of the projects I've worked on:
    - Technologies used: Python
    - [Link to Project](https://github.com/n03stalg1a/n03stalg1c-f1nd3r)
 
-### 2. **Device-Security-Audit **
+### 2. **Device-Security-Audit**
    - A device auditing program.
    - Technologies used: Python
    - [Link to Project](https://github.com/n03stalg1a/Device-Security-Audit)
 
-### 3. **Advanced-Password-Generator**
-   - Another cool project I worked on.
+### 3. **SecuriScan**
+   - SecuriScan is a Python-based tool that automates the process of scanning websites for security vulnerabilities, including outdated libraries, exposed admin panels, missing security headers, and advanced threats like XSS and SQL injection. It helps ensure websites are secure and protected against common exploits.
    - Technologies used: Python
-   - [Link to Project](https://github.com/n03stalg1a/Advanced-Password-Generator)
+   - [Link to Project](https://github.com/n03stalg1a/SecuriScan)
 
 ## 📊 GitHub Stats
 
