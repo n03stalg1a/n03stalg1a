@@ -22,7 +22,7 @@ Here are some of the projects I've worked on:
    - [Link to Project](https://github.com/n03stalg1a/n03stalg1c-f1nd3r)
 
 ### 2. **Aether**
-   - Aether is an advanced AI assistant designed to make your life easier. It listens, understands, and executes commands seamlessly—whether it's opening apps, writing code, or engaging in intelligent conversations. With voice recognition and dynamic task automation, Aether is your personal, smart companion. .
+   - Aether is an advanced AI assistant designed to make your life easier. It listens, understands, and executes commands seamlessly—whether it's opening apps, writing code, or engaging in intelligent conversations. With voice recognition and dynamic task automation, Aether is your personal, smart companion.
    - Technologies used: Python
    - [Link to Project](https://github.com/n03stalg1a/Aether)
 
